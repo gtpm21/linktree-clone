@@ -1,0 +1,28 @@
+{
+    "name": "John Doe",
+    "avatar": "url",
+    "links": [
+        {
+            "title": "XXX",
+            "url": "url",
+            "image": "url"
+        },
+        {
+            "title": "VVV",
+            "url": "url",
+            "image": "url"
+        }
+    ],
+    "socials": [
+        {
+            "title": "Youtube",
+            "url": "url",
+            "image": "url"
+        },
+        {
+            "title": "Instagram",
+            "url": "url",
+            "image": "url"
+        }
+    ]
+}
