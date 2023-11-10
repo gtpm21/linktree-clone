@@ -3,25 +3,25 @@
     "avatar": "https://i.discogs.com/02KNT9aOoi62bZMtYCfPWnDJ9HJVEpjBYVYcs3vyrII/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyMDMw/NTctMTU5OTU2Nzcz/OS00NjIyLmpwZWc.jpeg",
     "links": [
         {
-            "title": "XXX",
-            "url": "url",
+            "title": "David",
+            "href": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/10/cyberpunk-edgerunners-david-martinez-(1).jpg",
             "image": "url"
         },
         {
-            "title": "VVV",
-            "url": "url",
+            "title": "Lucy",
+            "href": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2022/10/04/Cyberpunk-Edgerunners-Season-2.jpg",
             "image": "url"
         }
     ],
     "socials": [
         {
             "title": "Youtube",
-            "url": "url",
+            "href": "url",
             "image": "url"
         },
         {
             "title": "Instagram",
-            "url": "url",
+            "href": "url",
             "image": "url"
         }
     ]
