@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex items-center flex-col mx-auto w-full justify-center mt-16 px-8">
       <Image 
-      className="rounded-full border border-yellow-300 "
+      className="rounded" //border-yellow-300
         alt={data.name}
         src={data.avatar}
         width={96}
