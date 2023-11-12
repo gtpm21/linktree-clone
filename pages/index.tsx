@@ -1,6 +1,7 @@
 import Image from "next/image";
 import data from "../data.json";
 import SocialsBar from "../components/SocialsBar";
+import LinkCard from "../components/LinkCard";
 
 export default function Home() {
   return (
@@ -23,27 +24,3 @@ export default function Home() {
   )
 }
 
-function LinkCard({title, href, image}:{title:string; href: string; image?:string;}){
-  return (
-    <a href={href}
-    className="flex items-center p-1 w-full rounded-md 
-                hover:scale-105 transition-all border border-yellow-300 
-                mb-3 max-w-4xl" 
-    >
-      <div className="flex text-center w-full ">
-        <div className="flex w-20 h-10 items-center">
-          <Image 
-          className="rounded-sm"
-          alt={title}
-          src={image!}
-          width={80}
-          height={80}
-        />
-      </div>
-        <h2 className="flex font-semibold w-full justify-center items-center text-teal-400 -ml-20">
-          {title}
-        </h2>
-      </div>
-    </a>
-  )
-}
